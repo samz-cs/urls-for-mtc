@@ -1,31 +1,33 @@
 # urls-for-mtc
-link https://media.black...xploits-Slides.pdf
-link https://media.black...us-Chargers-WP.pdf
-link http://www.wandera....rces/dl/TA_CBS.pdf
-link http://simalliance....Emulation-v1.0.pdf
-link https://transition....rcement/jamfaq.pdf
-link http://www.wandera....l/TA_LaTribune.pdf
-link http://www.wandera....dl/TA_The_Fork.pdf
-link https://www.appthor...arch-at-black-hat/
-link https://media.black...Bouncerland_WP.pdf
-link https://media.black...M-cards-Slides.pdf
-link http://www.wandera....l/TA_CardCrypt.pdf
-link https://media.black...hem-All-Slides.pdf
-link https://media.black...one-Privacy-wp.pdf
-link https://duo.com/assets/infographics/The
-link http://christian.wr...ls/2017-eurosp.pdf
-link http://devstreaming...n_ios_and_os_x.pdf
-link http://www.vmware.c...MSA-2017-0001.html
-link http://www.wandera....s/dl/TA_StarQ8.pdf
-link https://media.black...ack_surface_WP.pdf
-link http://conference.h...kul/materials/D1T1
-link http://w2spconf.com...mobilephishing.pdf
-link http://www.skycure....lity-clickjacking/
-link https://staff.scien.../wifi-sd-cards.pdf
-link http://get.skycure....ty_Report_2016.pdf
-link https://www.wandera..._SemiJailbreak.pdf
-link https://www.paloalt...-from-malware.html
-link http://money.usnews...tity-can-be-stolen
-link https://media.defcon.org/DEF
-link http://www.wandera....reDellaSeraApp.pdf
-link https://www.skycure...t-of-ios-security/![image](https://user-images.githubusercontent.com/68604439/180832262-8f7f0c51-39af-4522-83a3-356f0a3c286e.png)
+http://get.skycure.com/hubfs/Reports/BYOD_and_Mobile_Security_Report_2016.pdf
+https://media.blackhat.com/bh-dc-11/Stavrou-Wang/BlackHat_DC_2011_Stavrou_Zhaohui_USB_exploits-Slides.pdf
+http://simalliance.org/wp-content/uploads/2015/03/Secure-Element-Deployment-Host-Card-Emulation-v1.0.pdf
+https://media.blackhat.com/us-13/US-13-Forristal-Android-One-Root-to-Own-Them-All-Slides.pdf
+https://www.skycure.com/blog/malicious-profiles-the-sleeping-giant-of-ios-security/
+https://media.blackhat.com/bh-us-12/Briefings/C_Miller/BH_US_12_Miller_NFC_attack_surface_WP.pdf
+http://w2spconf.com/2011/papers/felt-mobilephishing.pdf
+https://media.defcon.org/DEF
+http://www.skycure.com/blog/accessibility-clickjacking/
+https://www.appthority.com/company/news-and-events/press-releases/the-state-of-the-mobile-ecosystem-appthority-unveils-new-security-research-at-black-hat/
+https://media.blackhat.com/us-13/US-13-Lau-Mactans-Injecting-Malware-into-iOS-Devices-via-Malicious-Chargers-WP.pdf
+https://media.blackhat.com/bh-us-12/Briefings/Percoco/BH_US_12_Percoco_Adventures_in_Bouncerland_WP.pdf
+https://media.blackhat.com/us-13/us-13-Nohl-Rooting-SIM-cards-Slides.pdf
+https://www.paloaltonetworks.com/resources/research/unit42-backstab-mobile-backup-data-under-attack-from-malware.html
+https://duo.com/assets/infographics/The
+http://www.wandera.com/resources/dl/TA_LaTribune.pdf
+https://transition.fcc.gov/eb/jammerenforcement/jamfaq.pdf
+http://devstreaming.apple.com/videos/wwdc/2014/715xx4loqo5can9/715/715_user_privacy_in_ios_and_os_x.pdf
+https://www.paloaltonetworks.com/resources/research/unit42-backstab-mobile-backup-data-under-attack-from-malware.html
+https://staff.science.uva.nl/j.j.vanderham/cases/wifi-sd-cards.pdf
+http://www.wandera.com/resources/dl/TA_CBS.pdf
+http://www.wandera.com/resources/dl/TA_The_Fork.pdf
+https://www.wandera.com/resources/dl/TA_SemiJailbreak.pdf
+http://christian.wressnegger.info/content/projects/sidechannels/2017-eurosp.pdf
+https://www.wandera.com/resources/dl/TA_StarQ8.pdf
+http://conference.hitb.org/hitbsecconf2011kul/materials/D1T1
+https://www.wandera.com/resources/dl/TA_CardCrypt.pdf
+https://media.blackhat.com/bh-ad-10/Nohl/BlackHat-AD-2010-Nohl-Attacking-Phone-Privacy-wp.pdf
+https://www.wandera.com/resources/dl/TA_CorriereDellaSeraApp.pdf
+
+
+
