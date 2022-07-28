@@ -1,0 +1,417 @@
+    
+    {
+        "ThreatID": "STA-12",
+        "ThreatCategory": "Isolated Execution Environments",
+        "Threat": "Backdoors Introduced by Developers",
+        "ThreatOrigin": "Chinese ARM vendor left developer backdoor in kernel for Android, other devices [^208]",
+        "ExploitExample": [],
+        "CVEExample": [], 
+        "PossibleCountermeasures": []
+    },
+    
+    {
+        "ThreatID": "STA-23",
+        "ThreatCategory": "USIM / SIM / UICC security",
+        "Threat": "Terminal Identity Manipulation",
+        "ThreatOrigin": "3G Security; Security Threats and Requirements (Release 4) [^165]",
+        "ExploitExample": [],
+        "CVEExample": [], 
+        "PossibleCountermeasures": []
+    },
+
+    {
+        "ThreatID": "STA-24",
+        "ThreatCategory": "USIM / SIM / UICC security",
+        "Threat": "Masquerading as a USIM or Terminal",
+        "ThreatOrigin": "3G Security; Security Threats and Requirements (Release 4) [^165]",
+        "ExploitExample": [],
+        "CVEExample": [], 
+        "PossibleCountermeasures": []
+    },
+
+    {
+        "ThreatID": "STA-25",
+        "ThreatCategory": "USIM / SIM / UICC security",
+        "Threat": "UICC Terminal Interface Replay Attack",
+        "ThreatOrigin": "3G Security; Security Threats and Requirements (Release 4) [^165]",
+        "ExploitExample": [],
+        "CVEExample": [], 
+        "PossibleCountermeasures": []
+    },
+
+    {
+        "ThreatID": "STA-26",
+        "ThreatCategory": "USIM / SIM / UICC security",
+        "Threat": "Smartcard Hidden Commands",
+        "ThreatOrigin": "A Review of Smartcard Security Issues [^212]",
+        "ExploitExample": [],
+        "CVEExample": [], 
+        "PossibleCountermeasures": []
+    },
+
+    {
+        "ThreatID": "STA-27",
+        "ThreatCategory": "USIM / SIM / UICC security",
+        "Threat": "Parameter Poisoning or Buffer Overflow",
+        "ThreatOrigin": "A Review of Smartcard Security Issues [^212]",
+        "ExploitExample": [],
+        "CVEExample": [], 
+        "PossibleCountermeasures": []
+    },
+
+    {
+        "ThreatID": "STA-28",
+        "ThreatCategory": "USIM / SIM / UICC security",
+        "Threat": "Smartcard File Access",
+        "ThreatOrigin": "A Review of Smartcard Security Issues [^212]",
+        "ExploitExample": [],
+        "CVEExample": [], 
+        "PossibleCountermeasures": []
+    },
+
+    {
+        "ThreatID": "STA-29",
+        "ThreatCategory": "USIM / SIM / UICC security",
+        "Threat": "Malicious Applets",
+        "ThreatOrigin": "A Review of Smartcard Security Issues [^212]",
+        "ExploitExample": [],
+        "CVEExample": [], 
+        "PossibleCountermeasures": []
+    },
+
+    {
+        "ThreatID": "STA-30",
+        "ThreatCategory": "USIM / SIM / UICC security",
+        "Threat": "Communication Protocol information exchange between smartcard and terminal is dictated by a communication protocol that handles data flow control and error recovery.",
+        "ThreatOrigin": "A Review of Smartcard Security Issues [^212]",
+        "ExploitExample": [],
+        "CVEExample": [], 
+        "PossibleCountermeasures": []
+    },
+
+    {
+        "ThreatID": "STA-31",
+        "ThreatCategory": "USIM / SIM / UICC security",
+        "Threat": "Smartcard Crypto Protocol, Design, and Implementation",
+        "ThreatOrigin": "A Review of Smartcard Security Issues [^212]",
+        "ExploitExample": [],
+        "CVEExample": [], 
+        "PossibleCountermeasures": []
+    },
+
+    {
+        "ThreatID": "STA-32",
+        "ThreatCategory": "USIM / SIM / UICC security",
+        "Threat": "Etching",
+        "ThreatOrigin": "A Review of Smartcard Security Issues [^212]",
+        "ExploitExample": [],
+        "CVEExample": [], 
+        "PossibleCountermeasures": []
+    },
+
+    {
+        "ThreatID": "STA-33",
+        "ThreatCategory": "USIM / SIM / UICC security",
+        "Threat": "Microscopes Analyzing Chips",
+        "ThreatOrigin": "A Review of Smartcard Security Issues [^212]",
+        "ExploitExample": [],
+        "CVEExample": [], 
+        "PossibleCountermeasures": []
+    },
+
+    {
+        "ThreatID": "STA-34",
+        "ThreatCategory": "USIM / SIM / UICC security",
+        "Threat": "Probe Stations",
+        "ThreatOrigin": "A Review of Smartcard Security Issues [^212]",
+        "ExploitExample": [],
+        "CVEExample": [], 
+        "PossibleCountermeasures": []
+    },
+
+    {
+        "ThreatID": "STA-35",
+        "ThreatCategory": "USIM / SIM / UICC security",
+        "Threat": "Focused Ion Beams",
+        "ThreatOrigin": "A Review of Smartcard Security Issues [^212]",
+        "ExploitExample": [],
+        "CVEExample": [], 
+        "PossibleCountermeasures": []
+    },
+
+    {
+        "ThreatID": "STA-36",
+        "ThreatCategory": "USIM / SIM / UICC security",
+        "Threat": "Differential Power Analysis",
+        "ThreatOrigin": "A Review of Smartcard Security Issues [^212]",
+        "ExploitExample": [],
+        "CVEExample": [], 
+        "PossibleCountermeasures": []
+    },
+
+    {
+        "ThreatID": "STA-37",
+        "ThreatCategory": "USIM / SIM / UICC security",
+        "Threat": "Power Glitching",
+        "ThreatOrigin": "A Review of Smartcard Security Issues [^212]",
+        "ExploitExample": [],
+        "CVEExample": [], 
+        "PossibleCountermeasures": []
+    },
+
+    {
+        "ThreatID": "STA-38",
+        "ThreatCategory": "USIM / SIM / UICC security",
+        "Threat": "Pre-Shared Key Owner Data Manipulation",
+        "ThreatOrigin": "3G Security; Security Threats and Requirements (Release 4) [^165]",
+        "ExploitExample": [],
+        "CVEExample": [], 
+        "PossibleCountermeasures": []
+    },
+
+    {
+        "ThreatID": "CEL-10",
+        "ThreatCategory": "Consumer-grade Femtocell",
+        "Threat": "Use of weaker, nonstandard handset authentication mechanism for consumer-grade femtocells",
+        "ThreatOrigin": "",
+        "ExploitExample": [],
+        "CVEExample": [], 
+        "PossibleCountermeasures": []
+    },
+
+    {
+        "ThreatID": "CEL-12",
+        "ThreatCategory": "Consumer-grade Femtocell",
+        "Threat": "Masquerading",
+        "ThreatOrigin": "3G Security: Security Threats and Requirements (Release 4) [^165]",
+        "ExploitExample": [],
+        "CVEExample": [], 
+        "PossibleCountermeasures": []
+    },
+
+    {
+        "ThreatID": "CEL-13",
+        "ThreatCategory": "VoLTE",
+        "Threat": "Downgrade via Circuit Switched Fallback (CSFB)",
+        "ThreatOrigin": ["Insecurity of Voice Solution VoLTE in LTE Mobile Networks [^170]","How Voice Call Technology Poses Security Threats in 4G LTE Networks [^181]"],
+        "ExploitExample": [],
+        "CVEExample": [], 
+        "PossibleCountermeasures": []
+    },
+
+    {
+        "ThreatID": "CEL-14",
+        "ThreatCategory": "VoLTE",
+        "Threat": "Covert VoLTE Channels",
+        "ThreatOrigin": ["Insecurity of Voice Solution VoLTE in LTE Mobile Networks [^170]","How Voice Call Technology Poses Security Threats in 4G LTE Networks [^181]"],
+        "ExploitExample": [],
+        "CVEExample": [], 
+        "PossibleCountermeasures": []
+    },
+
+    {
+        "ThreatID": "CEL-15",
+        "ThreatCategory": "VoLTE",
+        "Threat": "VoLTE Data Injection",
+        "ThreatOrigin": ["Insecurity of Voice Solution VoLTE in LTE Mobile Networks [^170]","How Voice Call Technology Poses Security Threats in 4G LTE Networks [^181]"],
+        "ExploitExample": [],
+        "CVEExample": [], 
+        "PossibleCountermeasures": []
+    },
+
+    {
+        "ThreatID": "CEL-16",
+        "ThreatCategory": "VoLTE",
+        "Threat": "Unauthorized QoS Indicator Modification",
+        "ThreatOrigin": ["Insecurity of Voice Solution VoLTE in LTE Mobile Networks [^170]","How Voice Call Technology Poses Security Threats in 4G LTE Networks [^181]"],
+        "ExploitExample": [],
+        "CVEExample": [], 
+        "PossibleCountermeasures": []
+    },
+{
+        "ThreatID": "CEL-19",
+        "ThreatCategory": "SMS / MMS / RCS",
+        "Threat": "Message Injection",
+        "ThreatOrigin": ["Mitigating Attacks on Open Functionality in SMS-Capable Cellular Networks [^184]","Attacking SMS [^182]"],
+        "ExploitExample": [],
+        "CVEExample": [], 
+        "PossibleCountermeasures": []
+    },
+
+{
+        "ThreatID": "CEL-20",
+        "ThreatCategory": "SMS / MMS / RCS",
+        "Threat": "Device Fingerprinting via SMS",
+        "ThreatOrigin": ["A Silent SMS Denial of Service (DoS) Attack [^185]","Attacking SMS [^182]"],
+        "ExploitExample": [],
+        "CVEExample": [], 
+        "PossibleCountermeasures": []
+    },
+
+    {
+        "ThreatID": "CEL-21",
+        "ThreatCategory": "SMS / MMS / RCS",
+        "Threat": "Silent Message DoS",
+        "ThreatOrigin": "A Silent SMS Denial of Service (DoS) Attack [^185]",
+        "ExploitExample": [],
+        "CVEExample": [], 
+        "PossibleCountermeasures": []
+    },
+
+{
+        "ThreatID": "CEL-27",
+        "ThreatCategory": "Carrier Infrastructure",
+        "Threat": "No validation or authentication of caller ID information",
+        "ThreatOrigin": "",
+        "ExploitExample": [],
+        "CVEExample": [], 
+        "PossibleCountermeasures": []
+    },
+{
+        "ThreatID": "CEL-34",
+        "ThreatCategory": "Carrier Infrastructure",
+        "Threat": "User Impersonation",
+        "ThreatOrigin": "3G Security: Security Threats and Requirements (Release 4) [^165]",
+        "ExploitExample": [],
+        "CVEExample": [], 
+        "PossibleCountermeasures": []
+    },
+
+    {
+        "ThreatID": "CEL-35",
+        "ThreatCategory": "Carrier Infrastructure",
+        "Threat": "Traffic Interception via Masquerading",
+        "ThreatOrigin": "3G Security: Security Threats and Requirements (Release 4) [^165]",
+        "ExploitExample": [],
+        "CVEExample": [], 
+        "PossibleCountermeasures": []
+    },
+
+    {
+        "ThreatID": "CEL-36",
+        "ThreatCategory": "Carrier Infrastructure",
+        "Threat": "Unauthorized Phone Call and SMS Rerouting",
+        "ThreatOrigin": "3G Security: Security Threats and Requirements (Release 4) [^165]",
+        "ExploitExample": [],
+        "CVEExample": [], 
+        "PossibleCountermeasures": []
+    },
+{
+        "ThreatID": "CEL-40",
+        "ThreatCategory": "Carrier Interoperability",
+        "Threat": "Device Information Leak",
+        "ThreatOrigin": "Mobile Self Defense [^189]",
+        "ExploitExample": [],
+        "CVEExample": [], 
+        "PossibleCountermeasures": []
+    },
+
+    {
+        "ThreatID": "CEL-41",
+        "ThreatCategory": "Carrier Interoperability",
+        "Threat": "SMS Spam",
+        "ThreatOrigin": "Mobile Self Defense [^189]",
+        "ExploitExample": [],
+        "CVEExample": [], 
+        "PossibleCountermeasures": []
+    },
+
+    {
+        "ThreatID": "CEL-42",
+        "ThreatCategory": "Carrier Interoperability",
+        "Threat": "Redirect, Duplicate, or Eavesdrop on Phone Calls",
+        "ThreatOrigin": "Mobile Self Defense [^189]",
+        "ExploitExample": [],
+        "CVEExample": [], 
+        "PossibleCountermeasures": []
+    },
+
+    {
+        "ThreatID": "CEL-43",
+        "ThreatCategory": "Carrier Interoperability",
+        "Threat": "Air Interface Traffic Decryption",
+        "ThreatOrigin": "Mobile Self Defense [^189]",
+        "ExploitExample": [],
+        "CVEExample": [], 
+        "PossibleCountermeasures": []
+    },
+
+{
+        "ThreatID": "ECO-19",
+        "ThreatCategory": "Mobile Application Store",
+        "Threat": "Bring the app store offline by attacking the hosting infrastructure",
+        "ThreatOrigin": "",
+        "ExploitExample": [],
+        "CVEExample": [], 
+        "PossibleCountermeasures": []
+    },
+    
+{
+        "ThreatID": "SPC-14",
+        "ThreatCategory": "Supply Chain",
+        "Threat": "Countefeit Hardware Component",
+        "ThreatOrigin": "Supply Chain Attack Framework and Attack Patterns [^142]",
+        "ExploitExample": [],
+        "CVEExample": [], 
+        "PossibleCountermeasures": []
+    },
+
+    {
+        "ThreatID": "SPC-15",
+        "ThreatCategory": "Supply Chain",
+        "Threat": "Unsecured or Malicious 3rd Party Components",
+        "ThreatOrigin": "Supply Chain Attack Framework and Attack Patterns [^142]",
+        "ExploitExample": [],
+        "CVEExample": [], 
+        "PossibleCountermeasures": []
+    },
+
+    {
+        "ThreatID": "SPC-16",
+        "ThreatCategory": "Supply Chain",
+        "Threat": "Obsolete Hardware Replacement",
+        "ThreatOrigin": "Supply Chain Attack Framework and Attack Patterns [^142]",
+        "ExploitExample": [],
+        "CVEExample": [], 
+        "PossibleCountermeasures": []
+    },
+
+    {
+        "ThreatID": "SPC-17",
+        "ThreatCategory": "Supply Chain",
+        "Threat": "Malicious Hardware or Firmware Inserted During Integration",
+        "ThreatOrigin": "Supply Chain Attack Framework and Attack Patterns [^142]",
+        "ExploitExample": [],
+        "CVEExample": [], 
+        "PossibleCountermeasures": []
+    },
+    
+    {
+        "ThreatID": "SPC-18",
+        "ThreatCategory": "Supply Chain",
+        "Threat": "Subassembly Malware",
+        "ThreatOrigin": "Supply Chain Attack Framework and Attack Patterns [^142]",
+        "ExploitExample": [],
+        "CVEExample": [], 
+        "PossibleCountermeasures": []
+    },
+
+    {
+        "ThreatID": "SPC-19",
+        "ThreatCategory": "Supply Chain",
+        "Threat": "Component Substitution during Packaging or Distribution",
+        "ThreatOrigin": "Supply Chain Attack Framework and Attack Patterns [^142]",
+        "ExploitExample": [],
+        "CVEExample": [], 
+        "PossibleCountermeasures": []
+    },
+    
+    {
+        "ThreatID": "SPC-20",
+        "ThreatCategory": "Supply Chain",
+        "Threat": "Component Substitution During Software Upgrade",
+        "ThreatOrigin": "Supply Chain Attack Framework and Attack Patterns [^142]",
+        "ExploitExample": [],
+        "CVEExample": [], 
+        "PossibleCountermeasures": []
+    },
